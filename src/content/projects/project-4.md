@@ -1,7 +1,7 @@
 ---
-title: 'NeuralPlaylist - AI Generated Music Recommendations'
-description: Leveraging advanced algorithms and machine learning, NeuralPlaylist crafts personalized music recommendations based on users' preferences, moods, and even biometric data.
-publishDate: 'Oct 19 2023'
+title: 'Javi Moreno'
+description: I designed the official website of Spanish drummer Paco Navarro. Built with WordPress, the site showcases his career, videos, gallery, and schedule, featuring a clean and professional design that highlights his musical journey.
+publishDate: 'Oct 19 2024'
 seo:
   image:
     src: '/project-4.jpg'
