@@ -1,7 +1,7 @@
 ---
 title: 'MKTC Store'
 description: I developed the MKTC website, an online sticker store built with WordPress. I implemented a plugin that automatically calculates the price based on selected dimensions and materials, optimizing the shopping experience for the user.
-publishDate: 'Oct 25 2023'
+publishDate: 'Oct 25 2024'
 isFeatured: true
 seo:
   image:

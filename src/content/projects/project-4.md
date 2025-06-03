@@ -2,6 +2,7 @@
 title: 'Javi Moreno'
 description: I designed the official website of Spanish drummer Paco Navarro. Built with WordPress, the site showcases his career, videos, gallery, and schedule, featuring a clean and professional design that highlights his musical journey.
 publishDate: 'Oct 19 2024'
+isFeatured: true
 seo:
   image:
     src: '/project-4.jpg'

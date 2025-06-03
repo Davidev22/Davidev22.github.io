@@ -1,7 +1,8 @@
 ---
 title: Yoga Mágico
 description: I designed the website for Yoga Mágico, a children's yoga platform. I used WordPress to create a creative visual experience with pastel colors and a playful style focused on kids. I organized the content in a clear and attractive way to make navigation easy for both parents and students.
-publishDate: 'Jan 28 2025'
+publishDate: 'Jan 12 2025'
+isFeatured: true
 seo:
   image:
     src: '/project-6.jpg'

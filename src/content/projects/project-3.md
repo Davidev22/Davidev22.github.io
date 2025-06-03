@@ -1,6 +1,6 @@
 ---
-title: 'RoboChef - AI Powered Cooking Guide'
-description: RoboChef Recipe Assistant is a groundbreaking mobile application that leverages artificial intelligence to redefine the cooking experience.
+title: 'Centrilen'
+description: I developed the website for Centrilen, an ophthalmology clinic, using WordPress. The site was designed with a clean and professional layout to communicate trust and clarity. It includes information about services, specialists, and contact options, optimized for both desktop and mobile users.
 publishDate: 'Oct 12 2023'
 isFeatured: true
 seo:
