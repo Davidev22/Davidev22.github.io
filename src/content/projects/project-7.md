@@ -1,7 +1,7 @@
 ---
-title: CryptoTrader - Cryptocurrency Portfolio Manager
-description: CryptoTrader Dashboard is a comprehensive web application designed to empower cryptocurrency enthusiasts with tools to manage and optimize their digital asset portfolios.
-publishDate: 'Jan 10 2024'
+title: Florelia
+description: I designed Florelia, a creative and colorful website where each section has its own color and representative flower. Built with WordPress, I focused on the visual identity and graphic style to create a distinctive and well-structured aesthetic experience.
+publishDate: 'Mar 29 2025'
 isFeatured: true
 seo:
   image:
