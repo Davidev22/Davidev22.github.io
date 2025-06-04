@@ -13,20 +13,48 @@ seo:
 **Note:** This case study is entirely fictional and created for the purpose of showcasing [Dante Astro.js theme functionality](https://justgoodui.com/astro-themes/dante/).
 
 **Project Overview:**
-CryptoTrader Dashboard is a comprehensive web application designed to empower cryptocurrency enthusiasts with tools to manage and optimize their digital asset portfolios. By providing real-time market data, analytics, and portfolio tracking, the dashboard offers a seamless experience for users to monitor and enhance their cryptocurrency investments.
+Florelia is an interactive and visually striking web platform born from a collaboration with Disash, a brand that creates t-shirts inspired by fictional urban districts. The project artistically represents three imaginary zones: Region C, Region D, and Region E, through a digital design that blends urban aesthetics with visual storytelling.
+
+The website serves as an exhibition space highlighting the creative essence of each region, featuring:
+
+A dynamic gallery showcasing Disash's designs.
+
+Intuitive navigation between the different zones.
+
+Graphic and typographic elements that reinforce each region’s unique identity.
+
 
 ## Objectives
 
-1. Develop a user-friendly and feature-rich dashboard that consolidates real-time data from various cryptocurrency exchanges.
-2. Provide tools for users to analyze market trends, track their portfolio performance, and make informed investment decisions.
-3. Create a secure and efficient platform that ensures users have a holistic view of their cryptocurrency holdings.
+1. Showcase the Collaboration with Disash
+
+Present the joint work between Florelia and Disash as an experimental design project.
+
+2. Promote the Fictional Regions Concept
+
+Use the website to communicate the inspiration behind Regions C, D, and E.
+
+3. Create an Immersive Experience
+
+Develop interactions and visuals that immerse users in these imaginary urban landscapes.
+
+4. Strengthen the Project’s Visual Identity
+
+Ensure color palettes, typography, and graphics reflect Florelia’s urban and artistic spirit.
+
+5. Serve as a Scalable Platform
+
+Allow for future additions of new regions or collaborations without losing coherence.
 
 ## Features
 
 1. **Multi-Exchange Integration:**
 
-- CryptoTrader Dashboard aggregates data from multiple cryptocurrency exchanges, allowing users to view their entire portfolio in one centralized location.
-- Real-time updates provide the latest market prices, trading volumes, and order book data.
+- Responsive design (mobile/desktop).
+
+  Visual effects to enhance storytelling.
+
+  Modular structure for future updates.
 
 2. **Portfolio Analytics:**
 
