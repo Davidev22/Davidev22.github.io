@@ -85,6 +85,4 @@ Allow for future additions of new regions or collaborations without losing coher
 
 ## Outcome
 
-CryptoTrader Dashboard has become a trusted companion for cryptocurrency investors, offering a consolidated and user-friendly platform for managing their portfolios. The robust analytics, real-time market data, and risk management tools empower users to make informed decisions and navigate the dynamic world of cryptocurrency with confidence.
-
-**Note:** This case study is entirely fictional and created for the purpose of showcasing [Dante Astro.js theme functionality](https://justgoodui.com/astro-themes/dante/).
+Florelia stands as a testament to digital creativity, where urban fiction meets thoughtful web design. This non-commercial space celebrates artistic collaboration through innovative digital presentation.
