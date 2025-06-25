@@ -10,7 +10,7 @@ seo:
 
 ![Project preview](/Florelia.png)
 
-**Note:** This case study is entirely fictional and created for the purpose of showcasing [Florelia.org](https://florelia.org/).
+[Florelia.org](https://florelia.org/).
 
 **Project Overview:**
 Florelia is an interactive and visually striking web platform born from a collaboration with Disash, a brand that creates t-shirts inspired by fictional urban districts. The project artistically represents three imaginary zones: Region C, Region D, and Region E, through a digital design that blends urban aesthetics with visual storytelling.
