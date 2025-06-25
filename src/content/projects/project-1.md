@@ -1,6 +1,6 @@
 ---
 title: 'Vecamar'
-description: EcoBuddy is a mobile app that gamifies sustainable living. Users can set eco-friendly goals, track their carbon footprint, and earn virtual rewards for adopting environmentally conscious habits.
+description: VECAMAR is a well-established Canary Islands company, founded in 2000, specializing in maintenance, repair, and installation services for fuel stations, gas stations, fuel storage parks, and self-consumption fuel facilities.
 publishDate: 'Jan 02 2024'
 seo:
   image:
