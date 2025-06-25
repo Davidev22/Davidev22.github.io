@@ -55,10 +55,6 @@ const siteConfig: SiteConfig = {
             href: '/projects'
         },
         {
-            text: 'Blog',
-            href: '/blog'
-        },
-        {
             text: 'Github',
             href: 'https://github.com/Davidev22'
         }
@@ -79,16 +75,8 @@ const siteConfig: SiteConfig = {
     ],
     socialLinks: [
         {
-            text: 'Dribbble',
-            href: 'https://dribbble.com/'
-        },
-        {
-            text: 'Instagram',
-            href: 'https://instagram.com/'
-        },
-        {
-            text: 'X/Twitter',
-            href: 'https://twitter.com/'
+            text: 'Fiverr',
+            href: 'https://es.fiverr.com/s/rED6mvj'
         }
     ],
     hero: {
