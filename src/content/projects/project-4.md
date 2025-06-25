@@ -10,7 +10,7 @@ seo:
 
 ![Project preview](/project-4.jpg)
 
-**Note:** This case study is entirely fictional and created for the purpose of showcasing [Dante Astro.js theme functionality](https://justgoodui.com/astro-themes/dante/).
+I did this project while at Atlantic Consultants and it's already been discontinued.
 
 **Project Overview:**
 Javi Moreno is the official website showcasing the professional work and career of Javi Moreno, the talented drummer of the Spanish band Efecto Pasillo. The site features multimedia content including photos, videos, tour dates, and a biography highlighting his musical journey. Designed with a modern, dynamic style, the platform aims to connect fans, music professionals, and collaborators worldwide. It offers easy navigation and is fully optimized for desktop and mobile devices.
@@ -24,6 +24,4 @@ Javi Moreno is the official website showcasing the professional work and career 
 
 ## Outcome
 
-NeuralPlaylist has redefined the music listening experience by harnessing the power of AI to provide users with hyper-personalized and context-aware playlists. The application not only adapts to users' musical preferences but also introduces them to new and exciting musical journeys based on their emotions and surroundings.
-
-**Note:** This case study is entirely fictional and created for the purpose of showcasing [Dante Astro.js theme functionality](https://justgoodui.com/astro-themes/dante/).
+Javi Moreno’s official website is a modern, multimedia-rich platform dedicated to showcasing the career and talents of the drummer from Efecto Pasillo. With an emphasis on dynamic content and user engagement, the site provides fans and professionals with the latest updates, galleries, and contact information. Fully responsive and professionally designed, it strengthens Javi Moreno’s online presence and connects him with a global audience.
