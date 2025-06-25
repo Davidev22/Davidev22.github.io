@@ -95,7 +95,7 @@ const siteConfig: SiteConfig = {
         title: 'Welocome to my Portfolio',
         text: "I’m a web designer focused on creating visually appealing and functional experiences for all types of users. I work with WordPress and specialize in responsive design, UI/UX, and accessibility. My goal is to deliver custom solutions that not only look great but also perform efficiently and exceed client expectations.",
         image: {
-            src: '/proyectos.png',
+            src: '/projects.png',
             alt: 'A person sitting at a desk in front of a computer'
         },
         actions: [
