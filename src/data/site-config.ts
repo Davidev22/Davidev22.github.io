@@ -93,12 +93,12 @@ const siteConfig: SiteConfig = {
             }
         ]
     },
-    /*subscribe: {
+    subscribe: {
         title: 'Subscribe to Dante Newsletter',
         text: 'One update per week. All the latest posts directly in your inbox.',
         formUrl: '#'
-    },*/
-    postsPerPage: 8,
+    },
+    /*postsPerPage: 8,*/
     projectsPerPage: 8
 };
 
