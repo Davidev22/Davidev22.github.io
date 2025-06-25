@@ -29,8 +29,7 @@ The website aims to combine creativity with user-friendly navigation, allowing c
 
 ## Outcome
 
-MKTC Store es una tienda online moderna especializada en la venta de stickers personalizados. Diseñada con una estética urbana y atrevida, la plataforma ofrece una experiencia de usuario fluida y creativa. Una de sus funcionalidades principales es una calculadora de precios personalizada, que ajusta dinámicamente el costo según el material, las dimensiones y la imagen cargada.
+MKTC Store is a modern e-commerce website specialized in the sale of personalized stickers. Designed with a bold urban aesthetic, the platform offers a smooth and creative user experience. One of its key features is a custom price calculator that dynamically adjusts pricing based on the selected material, dimensions, and uploaded image.
 
-El sitio fue desarrollado con un enfoque en la usabilidad, el diseño adaptable y la identidad de marca. Permite a los clientes explorar, personalizar y comprar stickers fácilmente, al tiempo que optimiza la gestión interna y el rendimiento SEO.
-
+The site was built with a focus on usability, responsiveness, and brand identity. It allows customers to easily explore, customize, and purchase stickers online, while streamlining backend management and improving SEO performance.
 
