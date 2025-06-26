@@ -40,10 +40,10 @@ export type SiteConfig = {
 const siteConfig: SiteConfig = {
     title: 'David Henriquez',
     subtitle: "Here it's my personal blog",
-    description: 'Astro.js and Tailwind CSS theme for blog and portfolio by justgoodui.com',
+    description: 'David Henriquez',
     image: {
-        src: '/proyectos.png',
-        alt: 'Dante - Astro.js and Tailwind CSS theme'
+        src: '/cover.png',
+        alt: 'Projects'
     },
     headerNavLinks: [
         {
@@ -54,10 +54,10 @@ const siteConfig: SiteConfig = {
             text: 'Projects',
             href: '/projects'
         },
-        {
+        /*{
             text: 'Github',
             href: 'https://github.com/Davidev22'
-        }
+        }*/
     ],
     footerNavLinks: [
         {
