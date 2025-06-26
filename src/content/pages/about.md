@@ -2,16 +2,12 @@
 title: About
 seo:
   title: About Me
-  description: Learn more about the person behind the website and embark on a journey of inspiration and shared experiences.
- /* image:
-    src: '/about.jpeg'
-    alt: A person sitting at a desk in front of a computer 
-   */ 
+  description: Learn more about the person behind the website and embark on a journey of inspiration and shared experiences. 
 ---
 
 ![Alt text for image](/about.jpeg)
 
-My name is David Henriquez, I'm a 22-year-old web designer from Venezuela, passionate about building visually appealing and functional websites with WordPress. I started offering my services as a freelancer on Fiverr, where I gained my first clients and hands-on experience.
+My name is David Henriquez, I'm a 22-year-old web designer from Venezuela, passionate about building visually appealing and functional websites with WordPress. I started offering my services as a freelancer on [Fiverr](https://es.fiverr.com/s/EgyQREe), where I gained my first clients and hands-on experience.
 
 Through Fiverr, I was contacted by a Canary Islands-based agency called Atlantic Consultores. At the time, I had no previous experience with WordPress, but I accepted the challenge and quickly dove into learning. The agency began assigning me real projects, and that experience allowed me to develop both my technical and design skills in a practical, professional environment.
 
