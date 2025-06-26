@@ -5,10 +5,10 @@ publishDate: 'Oct 12 2023'
 isFeatured: true
 seo:
   image:
-    src: '/cover-centrilen.wbp'
+    src: '/centrilen.png'
 ---
 
-![Project preview](/cover-centrilen.wbp)
+![Project preview](/centrilen.png)
 
 **Note:** This project has already been changed to the one that was started [Centrilen](https://centrilen.es/).
 

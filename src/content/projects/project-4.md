@@ -5,10 +5,10 @@ publishDate: 'Oct 19 2024'
 isFeatured: true
 seo:
   image:
-    src: '/project-4.jpg'
+    src: '/javi-cover.png'
 ---
 
-![Project preview](/project-4.jpg)
+![Project preview](/javi-cover.png)
 
 I did this project while at Atlantic Consultants and it's already been discontinued.
 
