@@ -7,10 +7,10 @@ publishDate: 'Jan 10 2024'
 isFeatured: true
 seo:
   image:
-    src: 'project-7.jpg'
+    src: '/cover_artePaco.png'
 ---
 
-![Project preview](/project-7.jpg)
+![Project preview](/cover_artePaco.png)
 
 [Arte Paco Navarro](https://artepaconavarro.com/).
 
