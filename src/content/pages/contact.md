@@ -10,5 +10,5 @@ Thank you for reaching out! Whether you have a question, a suggestion, or just w
 _Email:_
 Feel free to drop me an email at [davidhv.dev@gmail.com](mailto:davidhv.dev@gmail.com), and I'll do my best to respond as soon as possible.
 
-_Social Media:_
-Connect with me on social media as well. Find me on [Fiverr](https://es.fiverr.com/s/NNL1GWp)
+_Fiverr:_
+Connect with me on [Fiverr](https://es.fiverr.com/s/NNL1GWp)
